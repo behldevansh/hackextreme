@@ -15,19 +15,19 @@ Our platform is a dynamic web application designed to redefine the streaming exp
 providing a space where ideas thrive, and interaction reigns supreme.
 ## Team Name : AlgoAllies Enhanced
 
-## Team Leader : [@TanishSaxena](https://github.com/tanxena)
+## Team Leader : [TanishSaxena](https://www.linkedin.com/in/tanish-saxena-bab4ab24a/)
 
 ## Team
 
 - Tanish Saxena - 2022UIC3511
 - Devansh Behl - 2022UIC3582
 - Prisha Malik - 2022UIT3030
-
+<!-- 
 ## Links
 
 - [PPT](https://drive.google.com/file/d/1BN8b2csfKdo9b0uNs1lX1TIlPjYZ6ZDN/view?usp=sharing)
 - [Video Demonstration]()
-- [GitHub](https://github.com/tanxena)
+- [GitHub](https://github.com/tanxena) -->
 
 ## Tech Stack
 
@@ -45,48 +45,25 @@ providing a space where ideas thrive, and interaction reigns supreme.
 - [Jsonwebtoken](https://jwt.io/)
 - [Google Fonts](https://fonts.google.com/)
 - [Render](https://render.com/)
-- [Mongodb] (https://www.mongodb.com/)
+- [Mongodb](https://www.mongodb.com/)
 
-## Key Features
-
-### Content Library
-
-- Robust Content Management System (CMS): Develop a powerful CMS that allows content administrators to upload, organize, and categorize videos efficiently.
-
-- Media Type Support: Ensure your platform supports various media types, including videos, audio, live streams, and more.
-
-- Metadata Management Implement tools for managing metadata, such as titles, descriptions, tags, and thumbnails, to enhance content discoverability.
-
-### User Registration and Authentication
-
-- User Registration: Provide user registration functionality, allowing users to create accounts with unique usernames and passwords.
-
-- Social Media Integration:  Allow users to sign up or log in using their social media accounts 
-
-- *User Profiles: * Enable users to create and customize profiles with avatars and preferences.
-
-### Content Delivery:
-
-- *High-Quality Streaming: * Ensure high-quality video and audio streaming with adaptive bitrate streaming (ABR) to accommodate various devices and network conditions.
-
-- CDN Integration:  Integrate with a Content Delivery Network (CDN) for faster content delivery to users around the world.
-
-- Format and Resolution Support: Support multiple video formats and resolutions, including HD and 4K, to cater to user preferences.
-
-### Live Streaming:
-
-- Live Event Support: Offer support for live streaming events, including real-time chat and audience interaction.
-
-- Broadcast Recording: Allow the recording and archiving of live broadcasts for on-demand viewing.
+# Summarizing the features of our project
+## Dashboard:
+- The dashboard presents a summary of total earnings and subscribers, showcased through visually appealing chart formats. Additionally, it offers a concise transaction history illustrated with a line chart.
+## Streams:
+- This section provides a comprehensive record of all streams, appropriately tagged and displaying titles and ratings. Users can choose to view brief descriptions for each stream.
+## Subscribers:
+- Maintains a detailed log of subscribers, associating their ID with corresponding name, email, and country details. Users have the ability to sort, filter, hide, and search for specific entries within this section.
+## Earning:
+- Documents all transactions, with each transaction featuring a unique User ID, Transaction ID, total stream views, and the amount donated to the stream.
+## Geography:
+- Includes an option to view subscriber demographics, offering insights into the geographical distribution of the audience.
+## Sales:
+- Offers an overview of earnings, showcasing daily and monthly breakdowns through both linecharts. Users can sort the data based on specific dates.
+## Management:
+- Lists collaborations, providing information such as ID, phone number, and role for each collaborator. This section supports filtering, sorting, hiding, and searching functionalities.
+## User Interface:
+- The platform supports both light and dark modes for a personalized viewing experience. It is designed to be mobile responsive, ensuring seamless accessibility across various devices.
 
 
-### Mobile Responsiveness:
-
-- Live Event Support: Offer support for live streaming events, including real-time chat and audience interaction.
-
-- Broadcast Recording: Allow the recording and archiving of live broadcasts for on-demand viewing.
-
-
-### Analytics and Reporting:
-
--  Provide content creators with a comprehensive analytics dashboard to monitor their video performance.
+### Dataset generated from [EdRoh](https://github.com/ed-roh) 
