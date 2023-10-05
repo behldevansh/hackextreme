@@ -1,4 +1,4 @@
-# Stream Bytes
+# StreamBytes
 
 ## Problem Statement 
 Enhancing Productivity for Developers and/or Gamers
@@ -31,18 +31,21 @@ providing a space where ideas thrive, and interaction reigns supreme.
 
 ## Tech Stack
 
-- [Next JS](https://nextjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [NextUI](https://nextui.org/)
-- [Recharts](https://recharts.org/)
-- [Truffle](https://trufflesuite.com/)
-- [Solidity and Blockchain](https://soliditylang.org/)
-- [Ganache](https://trufflesuite.com/ganache/)
-- [Node JS](https://nodejs.org/en)
-- [Express JS](https://expressjs.com/)
-- [Moralis IPFS](https://moralis.io/)
-- [Luxon](https://www.npmjs.com/package/luxon)
-- [Python](https://www.python.org/)
+- [Node](https://nodejs.org/en)
+- [Npx](https://elpuas.com/blog/create-a-npx-script/)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
+- [Nivo Charts](https://nivo.rocks/)
+- [Material ui](https://mui.com/material-ui/)
+- [Material ui data grid](https://v4.mui.com/components/data-grid/)
+- [React Router](https://www.w3schools.com/react/react_router.asp)
+- [React Data Picker](https://www.npmjs.com/package/react-datepicker)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+- [Redux Toolkit query](https://codevoweb.com/setup-redux-toolkit-and-rtk-query/)
+- [Dotenv](https://www.npmjs.com/package/dotenv)
+- [Jsonwebtoken](https://jwt.io/)
+- [Google Fonts](https://fonts.google.com/)
+- [Render](https://render.com/)
+- [Mongodb] (https://www.mongodb.com/)
 
 ## Key Features
 

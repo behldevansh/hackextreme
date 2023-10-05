@@ -16,7 +16,7 @@ export const tokensDark = {
     1000: "#000000", // manually adjusted
   },
   primary: {
-    // blue
+    // black
     100: "#d3d4de",
     200: "#a6a9be",
     300: "#7a7f9d",
@@ -31,9 +31,11 @@ export const tokensDark = {
   secondary: {
     // yellow
     50: "#f0f0f0", // manually adjusted
-    100: "#fff6e0",
+    // 100: "#fff6e0",
+    100 : "#8EACCD",
     200: "#ffedc2",
-    300: "#ffe3a3",
+    // 300: "#ffe3a3",
+    300 :"#64CCC5",
     400: "#ffda85",
     500: "#ffd166",
     600: "#cca752",

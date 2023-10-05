@@ -52,7 +52,7 @@ const Customers = () => {
 
   return (
     <Box m="1.5rem 2.5rem">
-      <Header title="CUSTOMERS" subtitle="List of Customers" />
+      <Header title="Subscribers" subtitle="Subscribers Statistics" />
       <Box
         mt="40px"
         height="75vh"

@@ -60,10 +60,10 @@ const Dashboard = () => {
   return (
     <Box m="1.5rem 2.5rem">
       <FlexBetween>
-        <Header title="DASHBOARD" subtitle="Welcome to your dashboard" />
+        <Header title="DASHBOARD" subtitle="Welcome to your STREAMBYTES dashboard" />
 
         <Box>
-          <Button
+          {/* <Button
             sx={{
               backgroundColor: theme.palette.secondary.light,
               color: theme.palette.background.alt,
@@ -74,7 +74,7 @@ const Dashboard = () => {
           >
             <DownloadOutlined sx={{ mr: "10px" }} />
             Download Reports
-          </Button>
+          </Button> */}
         </Box>
       </FlexBetween>
 
@@ -90,7 +90,8 @@ const Dashboard = () => {
       >
         {/* ROW 1 */}
         <StatBox
-          title="Total Customers"
+          // title="Total Customers"
+          title="Total Subscribers"
           value={data && data.totalCustomers}
           increase="+14%"
           description="Since last month"
@@ -101,7 +102,7 @@ const Dashboard = () => {
           }
         />
         <StatBox
-          title="Sales Today"
+          title="Total Earning"
           value={data && data.todayStats.totalSales}
           increase="+21%"
           description="Since last month"
@@ -121,7 +122,7 @@ const Dashboard = () => {
           <OverviewChart view="sales" isDashboard={true} />
         </Box>
         <StatBox
-          title="Monthly Sales"
+          title="Monthly Subscribers Count"
           value={data && data.thisMonthStats.totalSales}
           increase="+5%"
           description="Since last month"
@@ -132,7 +133,7 @@ const Dashboard = () => {
           }
         />
         <StatBox
-          title="Yearly Sales"
+          title="Yearly Profit"
           value={data && data.yearlySalesTotal}
           increase="+43%"
           description="Since last month"
@@ -187,7 +188,7 @@ const Dashboard = () => {
           p="1.5rem"
           borderRadius="0.55rem"
         >
-          <Typography variant="h6" sx={{ color: theme.palette.secondary[100] }}>
+          {/* <Typography variant="h6" sx={{ color: theme.palette.secondary[100] }}>
             Sales By Category
           </Typography>
           <BreakdownChart isDashboard={true} />
@@ -198,7 +199,7 @@ const Dashboard = () => {
           >
             Breakdown of real states and information via category for revenue
             made for this year and total sales.
-          </Typography>
+          </Typography> */}
         </Box>
       </Box>
     </Box>

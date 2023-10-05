@@ -17351,7 +17351,7 @@ export const dataUser = [
     city: "Muang Sam Sip",
     state: null,
     country: "TH",
-    occupation: "Staff Scientist",
+    occupation: "Graphic Designer",
     phoneNumber: "3868813669",
     transactions: [
       "63701d74f03239d40b00008c",
@@ -17557,7 +17557,7 @@ export const dataUser = [
     city: "Gueset",
     state: null,
     country: "PH",
-    occupation: "Senior Quality Engineer",
+    occupation: "Manager",
     phoneNumber: "7394223360",
     transactions: [
       "63701d74f03239c72c0001a8",
@@ -17574,7 +17574,7 @@ export const dataUser = [
     city: "Ar Ramthā",
     state: null,
     country: "JO",
-    occupation: "Health Coach I",
+    occupation: "Video Editor",
     phoneNumber: "8815565181",
     transactions: [
       "63701d74f03239b913000027",
@@ -17608,7 +17608,7 @@ export const dataUser = [
     city: "Jianchang",
     state: null,
     country: "CN",
-    occupation: "Professor",
+    occupation: "Moderator",
     phoneNumber: "1711601856",
     transactions: [
       "63701d74f03239f09e0001bd",
@@ -17629,7 +17629,7 @@ export const dataUser = [
     city: "Anáfi",
     state: null,
     country: "GR",
-    occupation: "Product Engineer",
+    occupation: "Manager",
     phoneNumber: "9765815561",
     transactions: [
       "63701d74f032394441000319",
@@ -17665,7 +17665,7 @@ export const dataUser = [
     city: "Qiujia",
     state: null,
     country: "CN",
-    occupation: "Programmer II",
+    occupation: "Graphic Designer",
     phoneNumber: "1904503194",
     transactions: ["63701d74f032395b33000132"],
     role: "admin",
@@ -17678,7 +17678,7 @@ export const dataUser = [
     city: "Nova Venécia",
     state: null,
     country: "BR",
-    occupation: "Mechanical Systems Engineer",
+    occupation: "Video Editor",
     phoneNumber: "2849094457",
     transactions: [
       "63701d74f032398675000148",
@@ -17715,7 +17715,7 @@ export const dataUser = [
     city: "Sofrino",
     state: null,
     country: "RU",
-    occupation: "Legal Assistant",
+    occupation: "Graphic Designer",
     phoneNumber: "9871632129",
     transactions: [
       "63701d74f03239d40b000064",
@@ -17738,7 +17738,7 @@ export const dataUser = [
     city: "Walichnowy",
     state: null,
     country: "PL",
-    occupation: "Design Engineer",
+    occupation: "Moderator",
     phoneNumber: "2019015578",
     transactions: ["63701d74f03239bef0000140"],
     role: "admin",
@@ -17860,7 +17860,7 @@ export const dataUser = [
     city: "La Laja",
     state: null,
     country: "CL",
-    occupation: "Human Resources Manager",
+    occupation: "Graphic Designer",
     phoneNumber: "7832710010",
     transactions: ["63701d74f03239b91300002c"],
     role: "admin",
@@ -17873,7 +17873,7 @@ export const dataUser = [
     city: "El Rosario",
     state: null,
     country: "SV",
-    occupation: "Dental Hygienist",
+    occupation: "Manager",
     phoneNumber: "9031861313",
     transactions: [
       "63701d74f03239d591000348",
@@ -17894,7 +17894,7 @@ export const dataUser = [
     city: "Nossebro",
     state: "O",
     country: "SE",
-    occupation: "Help Desk Operator",
+    occupation: "Video Editor",
     phoneNumber: "5849922301",
     transactions: ["63701d74f03239b91300001a"],
     role: "admin",
@@ -17927,7 +17927,7 @@ export const dataUser = [
     city: "Ban Khlong Bang Sao Thong",
     state: null,
     country: "TH",
-    occupation: "Help Desk Technician",
+    occupation: "Graphic Designer",
     phoneNumber: "7662486646",
     transactions: [
       "63701d74f03239f09e0001ab",
@@ -17949,7 +17949,7 @@ export const dataUser = [
     city: "Iberia",
     state: null,
     country: "PE",
-    occupation: "Librarian",
+    occupation: "Moderator",
     phoneNumber: "1431906173",
     transactions: [
       "63701d74f032395b3300015b",
@@ -18009,7 +18009,7 @@ export const dataUser = [
     city: "Neuzina",
     state: null,
     country: "RS",
-    occupation: "Associate Professor",
+    occupation: "Manager",
     phoneNumber: "5644476178",
     transactions: [
       "63701d74f032390a34000350",
@@ -18041,13 +18041,13 @@ export const dataUser = [
   },
   {
     _id: "63701cc1f03239b7f700000e",
-    name: "Shelly",
+    name: "Pokimane",
     email: "swelbeck12@ycombinator.com",
     password: "RSjzmAjnq",
     city: "Sangoleng",
     state: null,
     country: "ID",
-    occupation: "Pharmacist",
+    occupation: "@pokimane",
     phoneNumber: "7036619983",
     transactions: [
       "63701d74f03239d81e000027",
@@ -18086,7 +18086,7 @@ export const dataUser = [
     city: "Krajan Dermawuharjo",
     state: null,
     country: "ID",
-    occupation: "Librarian",
+    occupation: "Video Editor",
     phoneNumber: "6834096034",
     transactions: [
       "63701d74f03239528f000045",
@@ -18103,7 +18103,7 @@ export const dataUser = [
     city: "Hongshan",
     state: null,
     country: "CN",
-    occupation: "Software Test Engineer III",
+    occupation: "Graphic Designer",
     phoneNumber: "9202297858",
     transactions: [
       "63701d74f032396b8e00002a",
@@ -18125,7 +18125,7 @@ export const dataUser = [
     city: "Ambian",
     state: null,
     country: "ID",
-    occupation: "Assistant Media Planner",
+    occupation: "Manager",
     phoneNumber: "6985339606",
     transactions: [
       "63701d74f03239cdc5000029",
@@ -18142,7 +18142,7 @@ export const dataUser = [
     city: "Xingpinglu",
     state: null,
     country: "CN",
-    occupation: "Pharmacist",
+    occupation: "Graphic Designer",
     phoneNumber: "6998313608",
     transactions: [
       "63701d74f032394441000301",
@@ -18205,7 +18205,7 @@ export const dataUser = [
     city: "Rakai",
     state: null,
     country: "UG",
-    occupation: "Nurse Practicioner",
+    occupation: "Manager",
     phoneNumber: "7998057020",
     transactions: [
       "63701d74f03239d81e000038",
@@ -18285,7 +18285,7 @@ export const dataUser = [
     city: "Ngou",
     state: null,
     country: "CM",
-    occupation: "Safety Technician I",
+    occupation: "Graphic Designer",
     phoneNumber: "2589001309",
     transactions: [
       "63701d74f03239d591000349",
@@ -18304,7 +18304,7 @@ export const dataUser = [
     city: "Lyon",
     state: "B9",
     country: "FR",
-    occupation: "Financial Analyst",
+    occupation: "Moderator",
     phoneNumber: "3972807132",
     transactions: [
       "63701d74f03239f09e0001a6",
@@ -18389,7 +18389,7 @@ export const dataUser = [
     city: "Kumba",
     state: null,
     country: "CM",
-    occupation: "Geologist III",
+    occupation: "Video Editor",
     phoneNumber: "8998444141",
     transactions: [
       "63701d74f0323944410002f5",
@@ -18425,7 +18425,7 @@ export const dataUser = [
     city: "Ajaccio",
     state: "A5",
     country: "FR",
-    occupation: "Associate Professor",
+    occupation: "Graphic Designer",
     phoneNumber: "3539813742",
     transactions: [
       "63701d74f03239b7f700003b",
@@ -18595,7 +18595,7 @@ export const dataUser = [
     city: "Lamovita",
     state: null,
     country: "BA",
-    occupation: "Environmental Tech",
+    occupation: "Manager",
     phoneNumber: "6425378915",
     transactions: [
       "63701d74f03239b7f700002f",
@@ -18650,7 +18650,7 @@ export const dataUser = [
     city: "Orleans",
     state: null,
     country: "BR",
-    occupation: "Civil Engineer",
+    occupation: "Manager",
     phoneNumber: "3529096801",
     transactions: [
       "63701d74f03239569400001a",
@@ -18759,7 +18759,7 @@ export const dataUser = [
     city: "Boncong",
     state: null,
     country: "ID",
-    occupation: "Senior Financial Analyst",
+    occupation: "Graphic Designer",
     phoneNumber: "3363114409",
     transactions: ["63701d74f032396b8e000036", "63701d74f032396b8e00001a"],
     role: "admin",
@@ -18772,7 +18772,7 @@ export const dataUser = [
     city: "Pantanal",
     state: null,
     country: "BR",
-    occupation: "Structural Analysis Engineer",
+    occupation: "Graphic Designer",
     phoneNumber: "8867064598",
     transactions: ["63701d74f03239c72c0001aa", "63701d74f03239cdc5000044"],
     role: "admin",
@@ -18819,7 +18819,7 @@ export const dataUser = [
     city: "Sakaraha",
     state: null,
     country: "MG",
-    occupation: "Civil Engineer",
+    occupation: "Video Editor",
     phoneNumber: "1939969138",
     transactions: ["63701d74f03239c72c0001a0", "63701d74f032396b8e000042"],
     role: "admin",
@@ -19037,7 +19037,7 @@ export const dataUser = [
     city: "Lushuihe",
     state: null,
     country: "CN",
-    occupation: "Tax Accountant",
+    occupation: "Manager",
     phoneNumber: "7095138328",
     transactions: [
       "63701d74f03239d40b00007a",
@@ -19057,7 +19057,7 @@ export const dataUser = [
     city: "Waterloo",
     state: "QC",
     country: "CA",
-    occupation: "Teacher",
+    occupation: "Video Editor",
     phoneNumber: "1999229985",
     transactions: [
       "63701d74f032396b8e000035",
@@ -19102,7 +19102,7 @@ export const dataUser = [
     city: "Dohār",
     state: null,
     country: "BD",
-    occupation: "Sales Associate",
+    occupation: "Moderator",
     phoneNumber: "7786587768",
     transactions: [
       "63701d74f03239db69000133",
@@ -19148,7 +19148,7 @@ export const dataUser = [
     city: "Kasturi",
     state: null,
     country: "ID",
-    occupation: "Project Manager",
+    occupation: "Manager",
     phoneNumber: "5779240200",
     transactions: ["63701d74f03239d81e000026", "63701d74f032394441000315"],
     role: "admin",
@@ -19182,7 +19182,7 @@ export const dataUser = [
     city: "Keffi",
     state: null,
     country: "NG",
-    occupation: "Nurse",
+    occupation: "Manager",
     phoneNumber: "1187156433",
     transactions: [
       "63701d74f03239528f000035",
@@ -19201,7 +19201,7 @@ export const dataUser = [
     city: "Guanli",
     state: null,
     country: "CN",
-    occupation: "Biostatistician I",
+    occupation: "Video Editor",
     phoneNumber: "6033400991",
     transactions: [
       "63701d74f03239b7f7000034",
@@ -19255,7 +19255,7 @@ export const dataUser = [
     city: "Néa Smýrni",
     state: null,
     country: "GR",
-    occupation: "Pharmacist",
+    occupation: "Manager",
     phoneNumber: "6037858916",
     transactions: [
       "63701d74f03239444100031b",
@@ -19275,7 +19275,7 @@ export const dataUser = [
     city: "Tagbacan Ibaba",
     state: null,
     country: "PH",
-    occupation: "Senior Quality Engineer",
+    occupation: "Video Editor",
     phoneNumber: "1852280527",
     transactions: [
       "63701d74f03239d40b00005b",
@@ -19298,7 +19298,7 @@ export const dataUser = [
     city: "Eisen",
     state: null,
     country: "KR",
-    occupation: "Quality Control Specialist",
+    occupation: "Graphic Designer",
     phoneNumber: "9696292224",
     transactions: [
       "63701d74f03239db69000146",
@@ -19412,7 +19412,7 @@ export const dataUser = [
     city: "Eadestown",
     state: null,
     country: "IE",
-    occupation: "Staff Scientist",
+    occupation: "Manager",
     phoneNumber: "8117488476",
     transactions: [
       "63701d74f0323986f300012e",
@@ -19436,7 +19436,7 @@ export const dataUser = [
     city: "Siqiao",
     state: null,
     country: "CN",
-    occupation: "Accounting Assistant I",
+    occupation: "Graphic Designer",
     phoneNumber: "3718592948",
     transactions: [
       "63701d74f03239d40b000085",
@@ -19456,7 +19456,7 @@ export const dataUser = [
     city: "Dongqu",
     state: null,
     country: "CN",
-    occupation: "Analyst Programmer",
+    occupation: "Moderator",
     phoneNumber: "9749285416",
     transactions: [
       "63701d74f03239cdc5000041",
@@ -19510,7 +19510,7 @@ export const dataUser = [
     city: "Gryfów Śląski",
     state: null,
     country: "PL",
-    occupation: "Sales Representative",
+    occupation: "Video Editor",
     phoneNumber: "3253849168",
     transactions: [
       "63701d74f032399c0000014e",
@@ -19540,7 +19540,7 @@ export const dataUser = [
     city: "Toba",
     state: null,
     country: "JP",
-    occupation: "Senior Quality Engineer",
+    occupation: "Moderator",
     phoneNumber: "3603446896",
     transactions: [
       "63701d74f032396b8e00003c",
@@ -19663,7 +19663,7 @@ export const dataUser = [
     city: "Maputsoe",
     state: null,
     country: "LS",
-    occupation: "Staff Scientist",
+    occupation: "Manager",
     phoneNumber: "6014630516",
     transactions: [
       "63701d74f03239d81e000046",
@@ -19767,7 +19767,7 @@ export const dataUser = [
     city: "Breu",
     state: null,
     country: "PE",
-    occupation: "Research Assistant III",
+    occupation: "Video Editor",
     phoneNumber: "6918035213",
     transactions: [
       "63701d74f0323986f3000154",
@@ -19892,7 +19892,7 @@ export const dataUser = [
     city: "Västerås",
     state: "U",
     country: "SE",
-    occupation: "Marketing Assistant",
+    occupation: "Graphic Designer",
     phoneNumber: "4484662304",
     transactions: [
       "63701d74f03239c72c0001bf",
@@ -20034,7 +20034,7 @@ export const dataUser = [
     city: "Soa",
     state: null,
     country: "ID",
-    occupation: "Recruiting Manager",
+    occupation: "Manager",
     phoneNumber: "9031059880",
     transactions: [
       "63701d74f032396b8e00002e",
@@ -20080,7 +20080,7 @@ export const dataUser = [
     city: "Bāsht",
     state: null,
     country: "IR",
-    occupation: "Assistant Manager",
+    occupation: "Moderator",
     phoneNumber: "6262613312",
     transactions: [
       "63701d74f032396b8e000024",
@@ -20140,7 +20140,7 @@ export const dataUser = [
     city: "Hīsh",
     state: null,
     country: "SY",
-    occupation: "Assistant Professor",
+    occupation: "Moderator",
     phoneNumber: "1789497142",
     transactions: [
       "63701d74f0323986f3000139",
@@ -20178,7 +20178,7 @@ export const dataUser = [
     city: "Ash Shajarah",
     state: null,
     country: "SY",
-    occupation: "Social Worker",
+    occupation: "Manager",
     phoneNumber: "7859555742",
     transactions: [
       "63701d74f032390a3400034d",
@@ -20219,7 +20219,7 @@ export const dataUser = [
     city: "E’zhou",
     state: null,
     country: "CN",
-    occupation: "Mechanical Systems Engineer",
+    occupation: "Video Editor",
     phoneNumber: "4964737668",
     transactions: [
       "63701d74f03239d81e000036",
@@ -20241,7 +20241,7 @@ export const dataUser = [
     city: "København",
     state: "1084",
     country: "DK",
-    occupation: "Senior Financial Analyst",
+    occupation: "Graphic Designer",
     phoneNumber: "5698456614",
     transactions: [
       "63701d74f032399c0000015b",
@@ -20265,7 +20265,7 @@ export const dataUser = [
     city: "Guadalupe",
     state: "OAX",
     country: "MX",
-    occupation: "Assistant Professor",
+    occupation: "Moderator",
     phoneNumber: "4011804307",
     transactions: [
       "63701d74f03239d40b00008e",
@@ -20424,7 +20424,7 @@ export const dataUser = [
     city: "Mayhan",
     state: null,
     country: "MN",
-    occupation: "Marketing Assistant",
+    occupation: "Manager",
     phoneNumber: "4424591122",
     transactions: [
       "63701d74f03239b91300003d",
@@ -20442,7 +20442,7 @@ export const dataUser = [
     city: "Lazaro Cardenas",
     state: "TAB",
     country: "MX",
-    occupation: "Chief Design Engineer",
+    occupation: "Graphic Designer",
     phoneNumber: "8236731636",
     transactions: [
       "63701d74f032396b8e000033",
@@ -20484,7 +20484,7 @@ export const dataUser = [
     city: "Chocianów",
     state: null,
     country: "PL",
-    occupation: "Accounting Assistant I",
+    occupation: "Video Editor",
     phoneNumber: "1582510979",
     transactions: [
       "63701d74f03239c72c0001ba",
@@ -20543,7 +20543,7 @@ export const dataUser = [
     city: "Ouani",
     state: null,
     country: "KM",
-    occupation: "Marketing Assistant",
+    occupation: "Moderator",
     phoneNumber: "9251077758",
     transactions: [
       "63701d74f032399c00000138",
@@ -20579,7 +20579,7 @@ export const dataUser = [
     city: "Arnelas",
     state: "13",
     country: "PT",
-    occupation: "Legal Assistant",
+    occupation: "Graphic Designer",
     phoneNumber: "9106965949",
     transactions: [
       "63701d74f032396b8e00001f",
@@ -20656,7 +20656,7 @@ export const dataUser = [
     city: "Soroti",
     state: null,
     country: "UG",
-    occupation: "GIS Technical Architect",
+    occupation: "Manager",
     phoneNumber: "6789537591",
     transactions: ["63701d74f03239f09e0001aa"],
     role: "admin",
@@ -20669,7 +20669,7 @@ export const dataUser = [
     city: "Kiernozia",
     state: null,
     country: "PL",
-    occupation: "Structural Analysis Engineer",
+    occupation: "Video Editor",
     phoneNumber: "2808160883",
     transactions: [
       "63701d74f03239d81e00002b",
@@ -20686,7 +20686,7 @@ export const dataUser = [
     city: "Bowang",
     state: null,
     country: "CN",
-    occupation: "Teacher",
+    occupation: "Graphic Designer",
     phoneNumber: "8182331761",
     transactions: ["63701d74f03239528f00003f"],
     role: "admin",
@@ -20752,7 +20752,7 @@ export const dataUser = [
     city: "Longotea",
     state: null,
     country: "PE",
-    occupation: "Statistician IV",
+    occupation: "Manager",
     phoneNumber: "5178518229",
     transactions: [
       "63701d74f03239db69000153",
@@ -20796,7 +20796,7 @@ export const dataUser = [
     city: "Taling Chan",
     state: null,
     country: "TH",
-    occupation: "Account Executive",
+    occupation: "Graphic Designer",
     phoneNumber: "1151128382",
     transactions: [
       "63701d74f0323986f3000144",
@@ -20838,7 +20838,7 @@ export const dataUser = [
     city: "Haebaru",
     state: null,
     country: "JP",
-    occupation: "Clinical Specialist",
+    occupation: "Manager",
     phoneNumber: "7552610177",
     transactions: ["63701d74f03239d591000330"],
     role: "admin",
@@ -20881,7 +20881,7 @@ export const dataUser = [
     city: "Troitsk",
     state: null,
     country: "RU",
-    occupation: "Structural Engineer",
+    occupation: "Manager",
     phoneNumber: "5823912564",
     transactions: ["63701d74f032396b8e000031", "63701d74f032399c0000014f"],
     role: "admin",
@@ -20915,7 +20915,7 @@ export const dataUser = [
     city: "Kanturk",
     state: null,
     country: "IE",
-    occupation: "Developer I",
+    occupation: "Graphic Designer",
     phoneNumber: "4125426191",
     transactions: [
       "63701d74f032399c00000152",
@@ -21079,7 +21079,7 @@ export const dataUser = [
     city: "Mmathubudukwane",
     state: null,
     country: "BW",
-    occupation: "Help Desk Operator",
+    occupation: "Moderator",
     phoneNumber: "1173556780",
     transactions: ["63701d74f032398675000157"],
     role: "admin",
@@ -21092,7 +21092,7 @@ export const dataUser = [
     city: "Ruy Barbosa",
     state: null,
     country: "BR",
-    occupation: "Financial Analyst",
+    occupation: "Manager",
     phoneNumber: "4005528996",
     transactions: [
       "63701d74f03239b91300002b",
@@ -21193,7 +21193,7 @@ export const dataUser = [
     city: "Zhangting",
     state: null,
     country: "CN",
-    occupation: "Data Coordiator",
+    occupation: "Video Editor",
     phoneNumber: "3105428793",
     transactions: [
       "63701d74f03239db69000159",
@@ -21237,7 +21237,7 @@ export const dataUser = [
     city: "Bundoc",
     state: null,
     country: "PH",
-    occupation: "Human Resources Manager",
+    occupation: "Graphic Designer",
     phoneNumber: "7699277602",
     transactions: ["63701d74f032395694000024", "63701d74f03239569400002c"],
     role: "admin",
@@ -21263,7 +21263,7 @@ export const dataUser = [
     city: "Bīleh Savār",
     state: null,
     country: "IR",
-    occupation: "Programmer Analyst III",
+    occupation: "Manager",
     phoneNumber: "9134600793",
     transactions: [
       "63701d74f032395694000044",
@@ -21285,7 +21285,7 @@ export const dataUser = [
     city: "Aryiropoúlion",
     state: null,
     country: "GR",
-    occupation: "Geological Engineer",
+    occupation: "Moderator",
     phoneNumber: "1966060890",
     transactions: ["63701d74f03239b7f700002b"],
     role: "admin",
@@ -21298,7 +21298,7 @@ export const dataUser = [
     city: "Montpellier",
     state: "A9",
     country: "FR",
-    occupation: "Media Manager II",
+    occupation: "Moderator",
     phoneNumber: "2938795844",
     transactions: [
       "63701d74f0323986f300013e",
@@ -21394,7 +21394,7 @@ export const dataUser = [
     city: "Bolszewo",
     state: null,
     country: "PL",
-    occupation: "Nurse Practicioner",
+    occupation: "Manager",
     phoneNumber: "4261666753",
     transactions: [
       "63701d74f0323944410002fd",
@@ -21418,7 +21418,7 @@ export const dataUser = [
     city: "Goiás",
     state: null,
     country: "BR",
-    occupation: "Help Desk Technician",
+    occupation: "Manager",
     phoneNumber: "8124690297",
     transactions: [
       "63701d74f03239b913000032",
@@ -21437,7 +21437,7 @@ export const dataUser = [
     city: "Sokoto",
     state: null,
     country: "NG",
-    occupation: "Food Chemist",
+    occupation: "Graphic Designer",
     phoneNumber: "4354770989",
     transactions: [
       "63701d74f03239d59100033f",
@@ -21474,7 +21474,7 @@ export const dataUser = [
     city: "Margasana",
     state: null,
     country: "ID",
-    occupation: "Recruiting Manager",
+    occupation: "Video Editor",
     phoneNumber: "6607612018",
     transactions: [
       "63701d74f03239528f000039",
@@ -21498,7 +21498,7 @@ export const dataUser = [
     city: "Sobral",
     state: null,
     country: "BR",
-    occupation: "Dental Hygienist",
+    occupation: "Manager",
     phoneNumber: "9878239334",
     transactions: [
       "63701d74f03239d591000333",
@@ -21547,7 +21547,7 @@ export const dataUser = [
     city: "Khiv",
     state: null,
     country: "RU",
-    occupation: "Human Resources Manager",
+    occupation: "Graphic Designer",
     phoneNumber: "1742030156",
     transactions: [
       "63701d74f0323944410002f5",
@@ -21571,7 +21571,7 @@ export const dataUser = [
     city: "Lubaczów",
     state: null,
     country: "PL",
-    occupation: "Internal Auditor",
+    occupation: "Moderator",
     phoneNumber: "9366408044",
     transactions: [
       "63701d74f032396b8e00001e",
@@ -21739,7 +21739,7 @@ export const dataUser = [
     city: "Janiuay",
     state: null,
     country: "PH",
-    occupation: "Nurse Practicioner",
+    occupation: "Video Editor",
     phoneNumber: "5203905716",
     transactions: [
       "63701d74f03239b7f7000041",
@@ -21817,7 +21817,7 @@ export const dataUser = [
     city: "Tulay na Lupa",
     state: null,
     country: "PH",
-    occupation: "Biostatistician IV",
+    occupation: "Manager",
     phoneNumber: "8377177996",
     transactions: [
       "63701d74f03239d40b000061",
@@ -21854,7 +21854,7 @@ export const dataUser = [
     city: "Tyazhinskiy",
     state: null,
     country: "RU",
-    occupation: "Environmental Specialist",
+    occupation: "Moderator",
     phoneNumber: "8971477869",
     transactions: [
       "63701d74f0323986f300013e",
@@ -21873,7 +21873,7 @@ export const dataUser = [
     city: "Karata",
     state: null,
     country: "RU",
-    occupation: "Recruiting Manager",
+    occupation: "Graphic Designer",
     phoneNumber: "5344323867",
     transactions: [
       "63701d74f03239d591000344",
@@ -21947,7 +21947,7 @@ export const dataUser = [
     city: "Paratunka",
     state: null,
     country: "RU",
-    occupation: "Senior Developer",
+    occupation: "Manager",
     phoneNumber: "8132295154",
     transactions: [
       "63701d74f03239cdc5000031",
@@ -21964,7 +21964,7 @@ export const dataUser = [
     city: "Cangkuang",
     state: null,
     country: "ID",
-    occupation: "Assistant Manager",
+    occupation: "Moderator",
     phoneNumber: "8138111612",
     transactions: [
       "63701d74f03239c72c0001a0",
@@ -22051,7 +22051,7 @@ export const dataUser = [
     city: "Yatunpu",
     state: null,
     country: "CN",
-    occupation: "Automation Specialist IV",
+    occupation: "Manager",
     phoneNumber: "6926244944",
     transactions: ["63701d74f032394c4900014a", "63701d74f03239528f00002c"],
     role: "admin",
@@ -22088,7 +22088,7 @@ export const dataUser = [
     city: "Wielka Wieś",
     state: null,
     country: "PL",
-    occupation: "Environmental Specialist",
+    occupation: "Graphic Designer",
     phoneNumber: "6592858577",
     transactions: [
       "63701d74f032399c00000142",
@@ -22105,7 +22105,7 @@ export const dataUser = [
     city: "Zhongzhai",
     state: null,
     country: "CN",
-    occupation: "Senior Editor",
+    occupation: "Manager",
     phoneNumber: "6617428670",
     transactions: [
       "63701d74f03239db69000140",
@@ -22158,7 +22158,7 @@ export const dataUser = [
     city: "Vale da Pedra",
     state: "10",
     country: "PT",
-    occupation: "Statistician IV",
+    occupation: "Video Editor",
     phoneNumber: "2149891338",
     transactions: [
       "63701d74f03239b7f7000045",
@@ -22266,7 +22266,7 @@ export const dataUser = [
     city: "San Vicente",
     state: null,
     country: "PH",
-    occupation: "Recruiter",
+    occupation: "Video Editor",
     phoneNumber: "5203611244",
     transactions: ["63701d74f03239d40b00008b", "63701d74f03239db69000145"],
     role: "admin",
@@ -22339,7 +22339,7 @@ export const dataUser = [
     city: "Tabu",
     state: null,
     country: "ID",
-    occupation: "Web Developer III",
+    occupation: "Manager",
     phoneNumber: "3014361855",
     transactions: [
       "63701d74f03239c72c0001a3",
@@ -22394,7 +22394,7 @@ export const dataUser = [
     city: "Gotputuk",
     state: null,
     country: "ID",
-    occupation: "Analyst Programmer",
+    occupation: "Graphic Designer",
     phoneNumber: "2095279022",
     transactions: [
       "63701d74f032394441000307",
@@ -22444,7 +22444,7 @@ export const dataUser = [
     city: "Shangzhang",
     state: null,
     country: "CN",
-    occupation: "VP Sales",
+    occupation: "Video Editor",
     phoneNumber: "4102440627",
     transactions: [
       "63701d74f032395b33000145",
@@ -22561,7 +22561,7 @@ export const dataUser = [
     city: "Kurayyimah",
     state: null,
     country: "JO",
-    occupation: "Staff Scientist",
+    occupation: "Moderator",
     phoneNumber: "9187433652",
     transactions: [
       "63701d74f032394c4900015b",
@@ -22601,7 +22601,7 @@ export const dataUser = [
     city: "Ratíškovice",
     state: null,
     country: "CZ",
-    occupation: "Account Coordinator",
+    occupation: "Video Editor",
     phoneNumber: "9993343715",
     transactions: [
       "63701d74f03239db6900014d",
@@ -22640,7 +22640,7 @@ export const dataUser = [
     city: "Independencia",
     state: "OAX",
     country: "MX",
-    occupation: "Speech Pathologist",
+    occupation: "Graphic Designer",
     phoneNumber: "9542194914",
     transactions: [
       "63701d74f03239528f00001f",
@@ -22864,7 +22864,7 @@ export const dataUser = [
     city: "Nijmegen",
     state: "03",
     country: "NL",
-    occupation: "Accounting Assistant II",
+    occupation: "Video Editor",
     phoneNumber: "7409445535",
     transactions: [
       "63701d74f032394c49000156",
@@ -22895,7 +22895,7 @@ export const dataUser = [
     city: "Qifang",
     state: null,
     country: "CN",
-    occupation: "Automation Specialist III",
+    occupation: "Moderator",
     phoneNumber: "1506165643",
     transactions: [
       "63701d74f032390a34000343",
@@ -22970,7 +22970,7 @@ export const dataUser = [
     city: "Dao",
     state: null,
     country: "PH",
-    occupation: "Social Worker",
+    occupation: "Graphic Designer",
     phoneNumber: "1371356593",
     transactions: ["63701d74f032399c0000014f", "63701d74f03239b7f700003f"],
     role: "admin",
