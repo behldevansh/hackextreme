@@ -1,14 +1,15 @@
 # StreamBytes
 
+## Enhancing Productivity for Developers and/or Gamers
+
 ## Problem Statement 
-Enhancing Productivity for Developers and/or Gamers
 In a world where technology and gaming are integral parts of our daily lives, there exists a pressing need to empower developers and gamers with innovative solutions that can significantly enhance their productivity, efficiency, and overall experience. The challenge of this hackathon is to create solutions that address the unique pain points and opportunities for improvement in these two distinct but interconnected domains.
 
-
+<!-- 
 ## Category
 Software
 
-
+ -->
 
 ## Objective
 Our platform is a dynamic web application designed to redefine the streaming experience. Built for content creators and viewers seeking a cutting-edge platform, we offer a seamless blend of streaming, collaboration, and customization features. With our innovative tools and user-centric approach, we transform the streaming landscape,
@@ -66,4 +67,4 @@ providing a space where ideas thrive, and interaction reigns supreme.
 - The platform supports both light and dark modes for a personalized viewing experience. It is designed to be mobile responsive, ensuring seamless accessibility across various devices.
 
 
-### Dataset generated from [EdRoh](https://github.com/ed-roh) 
+<!-- ### Dataset generated from [EdRoh](https://github.com/ed-roh)  -->
