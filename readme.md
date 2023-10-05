@@ -36,8 +36,8 @@ providing a space where ideas thrive, and interaction reigns supreme.
 - [Npx](https://elpuas.com/blog/create-a-npx-script/)
 - [Nodemon](https://www.npmjs.com/package/nodemon)
 - [Nivo Charts](https://nivo.rocks/)
-- [Material ui](https://mui.com/material-ui/)
-- [Material ui data grid](https://v4.mui.com/components/data-grid/)
+- [Material UI](https://mui.com/material-ui/)
+- [Material UI data grid](https://v4.mui.com/components/data-grid/)
 - [React Router](https://www.w3schools.com/react/react_router.asp)
 - [React Data Picker](https://www.npmjs.com/package/react-datepicker)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
@@ -46,7 +46,7 @@ providing a space where ideas thrive, and interaction reigns supreme.
 - [Jsonwebtoken](https://jwt.io/)
 - [Google Fonts](https://fonts.google.com/)
 - [Render](https://render.com/)
-- [Mongodb](https://www.mongodb.com/)
+- [MongoDB](https://www.mongodb.com/)
 
 # Summarizing the features of our project
 ## Dashboard:
