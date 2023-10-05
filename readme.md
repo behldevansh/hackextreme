@@ -16,7 +16,7 @@ Our platform is a dynamic web application designed to redefine the streaming exp
 providing a space where ideas thrive, and interaction reigns supreme.
 ## Team Name : AlgoAllies Enhanced
 
-## Team Leader : [TanishSaxena](https://www.linkedin.com/in/tanish-saxena-bab4ab24a/)
+
 
 ## Team
 
